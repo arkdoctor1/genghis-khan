@@ -30,7 +30,7 @@
 		"outerColor": [109,0,205],
 		"innerColor": [246,217,6],
 		"uniqueName": "成吉思汗",
-		"uniques": ["[+1 Happiness, +1 Culture, +1 Production, +1 Science] from all [Military] buildings", "[Great General] is earned [50]% faster","+[33]% combat bonus in [Hill, Grassland, Desert, Flood plains, Forest, Jungle, Marsh, Plains, Snow, Tundra]"],
+		"uniques": ["[+1 Happiness, +1 Culture, +1 Production, +1 Science] from all [Military] buildings", "[Great General] is earned [50]% faster","+[33]% combat bonus in [All]"],
 		"cities": ["Karakorum","Beshbalik","Turfan","Hsia","Old Sarai","New Sarai","Tabriz","Tiflis","Otrar","Sanchu","Kazan",
 			"Almarikh","Ulaanbaatar","Hovd","Darhan","Dalandzadgad","Mandalgovi","Choybalsan","Erdenet","Tsetserieg",
 			"Baruun-Urt","Ereen","Batshireet","Choyr","Ulaangom","Tosontsengel","Altay","Uliastay","Bayanhongor",
