@@ -9,9 +9,9 @@
 		"cost": 75,
 		"requiredTech": "Horseback Riding",
 		"upgradesTo": "Knight",
-		"obsoleteTech": "Chivaly",
+		"obsoleteTech": "Chivalry",
 		"uniques": ["can move after attacking"],
-		"promotions": ["Drill I","Cover I","Cossack ability","Shock"]
+		"promotions": ["Drill I","Cover I","Volley","Shock I"]
 		"hurryCostModifier": 20,
 		"attackSound": "metalhit"
 	},
