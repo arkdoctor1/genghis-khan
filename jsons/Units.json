@@ -1,18 +1,17 @@
 [
 	{
 		"name": "怯薛",
-		"unitType": "Sword",
-		"replaces": "Swordsman",
+		"unitType": "Mounted",
+		"replaces": "Horseman",
 		"uniqueTo": "蒙古帝国",
 		"movement": 5,
-		"strength": 16,
+		"strength": 13,
 		"cost": 75,
-		"requiredResource": "Iron",
-		"requiredTech": "Iron Working",
-		"upgradesTo": "Longswordsman",
-		"obsoleteTech": "Steel",
-		"uniques": ["+[33]% combat bonus in [Hill]"],
-		"promotions": ["Home Sweet Home","Quick Study"],
+		"requiredTech": "Horseback Riding",
+		"upgradesTo": "Knight",
+		"obsoleteTech": "Chivaly",
+		"uniques": ["can move after attacking"],
+		"promotions": ["Drill I","Cover I","Cossack ability","Shock"]
 		"hurryCostModifier": 20,
 		"attackSound": "metalhit"
 	},
