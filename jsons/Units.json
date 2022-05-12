@@ -11,7 +11,7 @@
 		"upgradesTo": "Knight",
 		"obsoleteTech": "Chivalry",
 		"uniques": ["Ignores Zone of Control","Can move after attacking"],
-		"promotions": ["Drill I","Cover I","Volley","Shock I","Ignore terrain cost"]
+		"promotions": ["Drill I","Cover I","Volley","Shock I","Ignore terrain cost","March"]
 		"hurryCostModifier": 20,
 		"attackSound": "metalhit"
 	},
