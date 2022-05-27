@@ -62,7 +62,7 @@
 	{
 		"name": "蒙古枪兵",
 		"unitType": "Archery",
-		"replaces": "Sperman",
+		"replaces": "Spearman",
 		"uniqueTo": "蒙古帝国",
 		"movement": 2,
 		"strength": 12,
