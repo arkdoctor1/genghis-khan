@@ -10,9 +10,85 @@
 		"requiredTech": "Horseback Riding",
 		"upgradesTo": "Knight",
 		"obsoleteTech": "Chivalry",
-		"uniques": ["Ignores Zone of Control","Can move after attacking"],
-		"promotions": ["Drill I","Cover I","Volley","Shock I","Ignore terrain cost","March"]
+		"uniques": ["Can move after attacking"],
+		"promotions": ["Volley","Shock I","Ignore terrain cost"]
 		"hurryCostModifier": 20,
 		"attackSound": "metalhit"
+	},
+	{
+		"name": "可汗之眼",
+		"unitType": "Scout",
+		"replaces": "Scout",
+		"uniqueTo": "蒙古帝国",
+		"movement": 3,
+		"strength": 8,
+		"cost": 25,
+		"uniques": ["Can move after attacking"],
+		"promotions": ["Ignore terrain cost","Scouting I","Survivalism I","March"]
+		"hurryCostModifier": 20,
+		"attackSound": "nonmetalhit"
+	},
+	{
+		"name": "蒙古勇士",
+		"unitType": "Sword",
+		"replaces": "Warrior",
+		"uniqueTo": "蒙古帝国",
+		"movement": 3,
+		"strength": 9,
+		"cost": 40,
+		"upgradesTo": "Swordsman",
+		"obsoleteTech": "Metal Casting",
+		"promotions": ["Drill I","Shock I","March","Cover I"]
+		"hurryCostModifier": 20,
+		"attackSound": "metalhit"
+	},
+	{
+		"name": "蒙古弓箭手",
+		"unitType": "Archery",
+		"replaces": "Archer",
+		"uniqueTo": "蒙古帝国",
+		"movement": 2,
+		"strength": 6,
+		"range": 3,
+		"rangedStrength": 9,
+		"cost": 40,
+		"requiredTech": "Archery",
+		"upgradesTo": "Composite Bowman",
+		"obsoleteTech": "Construction",
+		"promotions": ["Scouting I","March","Charge"]
+		"hurryCostModifier": 20,
+		"attackSound": "shot"
+	},
+	{
+		"name": "蒙古枪兵",
+		"unitType": "Archery",
+		"replaces": "Sperman",
+		"uniqueTo": "蒙古帝国",
+		"movement": 2,
+		"strength": 12,
+		"cost": 56,
+		"requiredTech": "Bronze Working",
+		"upgradesTo": "Pikeman",
+		"obsoleteTech": "Civil Service",
+		"promotions": ["Formation I","March","Drill I","Shock I"]
+		"hurryCostModifier": 20,
+		"attackSound": "metalhit"
+	},
+	{
+		"name": "蒙古骑射手",
+		"unitType": "Mounted",
+		"replaces": "Chariot Archer",
+		"uniqueTo": "蒙古帝国",
+		"movement": 5,
+		"strength": 7,
+		"range": 2,
+		"rangedStrength": 11,
+		"cost": 56,
+		"requiredTech": "The Wheel",
+		"upgradesTo": "Knight",
+		"obsoleteTech": "Chivalry",
+		"promotions": ["Scouting I","March","Charge","Ignore terrain cost"]
+		"hurryCostModifier": 20,
+		"attackSound": "shot"
 	},
 ]
